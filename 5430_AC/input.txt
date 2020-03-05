@@ -1,0 +1,13 @@
+4
+RDDRDRDRRRRRRRRRD
+4
+[1,2,3,4]
+DR
+1
+[42]
+RRDRDD
+6
+[1,1,2,3,5,8]
+RRRD
+1
+[1]
