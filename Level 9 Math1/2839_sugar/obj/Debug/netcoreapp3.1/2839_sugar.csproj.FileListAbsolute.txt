@@ -1,0 +1,12 @@
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2839_sugar/bin/Debug/netcoreapp3.1/2839_sugar.deps.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2839_sugar/bin/Debug/netcoreapp3.1/2839_sugar.runtimeconfig.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2839_sugar/bin/Debug/netcoreapp3.1/2839_sugar.runtimeconfig.dev.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2839_sugar/bin/Debug/netcoreapp3.1/2839_sugar.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2839_sugar/bin/Debug/netcoreapp3.1/2839_sugar.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2839_sugar/obj/Debug/netcoreapp3.1/2839_sugar.csprojAssemblyReference.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2839_sugar/obj/Debug/netcoreapp3.1/2839_sugar.AssemblyInfoInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2839_sugar/obj/Debug/netcoreapp3.1/2839_sugar.AssemblyInfo.cs
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2839_sugar/obj/Debug/netcoreapp3.1/2839_sugar.csproj.CoreCompileInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2839_sugar/obj/Debug/netcoreapp3.1/2839_sugar.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2839_sugar/obj/Debug/netcoreapp3.1/2839_sugar.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2839_sugar/obj/Debug/netcoreapp3.1/2839_sugar.genruntimeconfig.cache

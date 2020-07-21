@@ -1,0 +1,12 @@
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2908_상수/obj/Debug/netcoreapp3.1/2908_상수.csprojAssemblyReference.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2908_상수/obj/Debug/netcoreapp3.1/2908_상수.AssemblyInfoInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2908_상수/obj/Debug/netcoreapp3.1/2908_상수.AssemblyInfo.cs
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2908_상수/obj/Debug/netcoreapp3.1/2908_상수.csproj.CoreCompileInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2908_상수/bin/Debug/netcoreapp3.1/2908_상수.deps.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2908_상수/bin/Debug/netcoreapp3.1/2908_상수.runtimeconfig.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2908_상수/bin/Debug/netcoreapp3.1/2908_상수.runtimeconfig.dev.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2908_상수/bin/Debug/netcoreapp3.1/2908_상수.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2908_상수/bin/Debug/netcoreapp3.1/2908_상수.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2908_상수/obj/Debug/netcoreapp3.1/2908_상수.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2908_상수/obj/Debug/netcoreapp3.1/2908_상수.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2908_상수/obj/Debug/netcoreapp3.1/2908_상수.genruntimeconfig.cache

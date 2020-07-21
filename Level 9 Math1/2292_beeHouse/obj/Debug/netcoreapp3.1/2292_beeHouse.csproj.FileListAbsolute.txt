@@ -1,0 +1,12 @@
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2292_beeHouse/bin/Debug/netcoreapp3.1/2292_beeHouse.deps.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2292_beeHouse/bin/Debug/netcoreapp3.1/2292_beeHouse.runtimeconfig.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2292_beeHouse/bin/Debug/netcoreapp3.1/2292_beeHouse.runtimeconfig.dev.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2292_beeHouse/bin/Debug/netcoreapp3.1/2292_beeHouse.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2292_beeHouse/bin/Debug/netcoreapp3.1/2292_beeHouse.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2292_beeHouse/obj/Debug/netcoreapp3.1/2292_beeHouse.csprojAssemblyReference.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2292_beeHouse/obj/Debug/netcoreapp3.1/2292_beeHouse.AssemblyInfoInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2292_beeHouse/obj/Debug/netcoreapp3.1/2292_beeHouse.AssemblyInfo.cs
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2292_beeHouse/obj/Debug/netcoreapp3.1/2292_beeHouse.csproj.CoreCompileInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2292_beeHouse/obj/Debug/netcoreapp3.1/2292_beeHouse.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2292_beeHouse/obj/Debug/netcoreapp3.1/2292_beeHouse.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2292_beeHouse/obj/Debug/netcoreapp3.1/2292_beeHouse.genruntimeconfig.cache

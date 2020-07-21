@@ -1,0 +1,12 @@
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2869_snail/obj/Debug/netcoreapp3.1/2869_snail.csprojAssemblyReference.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2869_snail/obj/Debug/netcoreapp3.1/2869_snail.AssemblyInfoInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2869_snail/obj/Debug/netcoreapp3.1/2869_snail.AssemblyInfo.cs
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2869_snail/obj/Debug/netcoreapp3.1/2869_snail.csproj.CoreCompileInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2869_snail/bin/Debug/netcoreapp3.1/2869_snail.deps.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2869_snail/bin/Debug/netcoreapp3.1/2869_snail.runtimeconfig.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2869_snail/bin/Debug/netcoreapp3.1/2869_snail.runtimeconfig.dev.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2869_snail/bin/Debug/netcoreapp3.1/2869_snail.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2869_snail/bin/Debug/netcoreapp3.1/2869_snail.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2869_snail/obj/Debug/netcoreapp3.1/2869_snail.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2869_snail/obj/Debug/netcoreapp3.1/2869_snail.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2869_snail/obj/Debug/netcoreapp3.1/2869_snail.genruntimeconfig.cache

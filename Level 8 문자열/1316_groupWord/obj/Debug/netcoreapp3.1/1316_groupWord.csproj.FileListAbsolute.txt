@@ -1,0 +1,12 @@
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1316_groupWord/obj/Debug/netcoreapp3.1/1316_groupWord.csprojAssemblyReference.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1316_groupWord/obj/Debug/netcoreapp3.1/1316_groupWord.AssemblyInfoInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1316_groupWord/obj/Debug/netcoreapp3.1/1316_groupWord.AssemblyInfo.cs
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1316_groupWord/obj/Debug/netcoreapp3.1/1316_groupWord.csproj.CoreCompileInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1316_groupWord/bin/Debug/netcoreapp3.1/1316_groupWord.deps.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1316_groupWord/bin/Debug/netcoreapp3.1/1316_groupWord.runtimeconfig.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1316_groupWord/bin/Debug/netcoreapp3.1/1316_groupWord.runtimeconfig.dev.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1316_groupWord/bin/Debug/netcoreapp3.1/1316_groupWord.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1316_groupWord/bin/Debug/netcoreapp3.1/1316_groupWord.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1316_groupWord/obj/Debug/netcoreapp3.1/1316_groupWord.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1316_groupWord/obj/Debug/netcoreapp3.1/1316_groupWord.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1316_groupWord/obj/Debug/netcoreapp3.1/1316_groupWord.genruntimeconfig.cache

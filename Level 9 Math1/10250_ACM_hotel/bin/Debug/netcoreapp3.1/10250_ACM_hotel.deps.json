@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "10250_ACM_hotel/1.0.0": {
+        "runtime": {
+          "10250_ACM_hotel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "10250_ACM_hotel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

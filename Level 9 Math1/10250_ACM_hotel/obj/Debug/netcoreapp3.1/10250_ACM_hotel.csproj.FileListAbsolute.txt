@@ -1,0 +1,12 @@
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/10250_ACM_hotel/bin/Debug/netcoreapp3.1/10250_ACM_hotel.deps.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/10250_ACM_hotel/bin/Debug/netcoreapp3.1/10250_ACM_hotel.runtimeconfig.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/10250_ACM_hotel/bin/Debug/netcoreapp3.1/10250_ACM_hotel.runtimeconfig.dev.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/10250_ACM_hotel/bin/Debug/netcoreapp3.1/10250_ACM_hotel.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/10250_ACM_hotel/bin/Debug/netcoreapp3.1/10250_ACM_hotel.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/10250_ACM_hotel/obj/Debug/netcoreapp3.1/10250_ACM_hotel.csprojAssemblyReference.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/10250_ACM_hotel/obj/Debug/netcoreapp3.1/10250_ACM_hotel.AssemblyInfoInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/10250_ACM_hotel/obj/Debug/netcoreapp3.1/10250_ACM_hotel.AssemblyInfo.cs
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/10250_ACM_hotel/obj/Debug/netcoreapp3.1/10250_ACM_hotel.csproj.CoreCompileInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/10250_ACM_hotel/obj/Debug/netcoreapp3.1/10250_ACM_hotel.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/10250_ACM_hotel/obj/Debug/netcoreapp3.1/10250_ACM_hotel.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/10250_ACM_hotel/obj/Debug/netcoreapp3.1/10250_ACM_hotel.genruntimeconfig.cache

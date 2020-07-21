@@ -1,0 +1,12 @@
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/5622_dial/bin/Debug/netcoreapp3.1/5622_dial.deps.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/5622_dial/bin/Debug/netcoreapp3.1/5622_dial.runtimeconfig.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/5622_dial/bin/Debug/netcoreapp3.1/5622_dial.runtimeconfig.dev.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/5622_dial/bin/Debug/netcoreapp3.1/5622_dial.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/5622_dial/bin/Debug/netcoreapp3.1/5622_dial.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/5622_dial/obj/Debug/netcoreapp3.1/5622_dial.csprojAssemblyReference.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/5622_dial/obj/Debug/netcoreapp3.1/5622_dial.AssemblyInfoInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/5622_dial/obj/Debug/netcoreapp3.1/5622_dial.AssemblyInfo.cs
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/5622_dial/obj/Debug/netcoreapp3.1/5622_dial.csproj.CoreCompileInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/5622_dial/obj/Debug/netcoreapp3.1/5622_dial.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/5622_dial/obj/Debug/netcoreapp3.1/5622_dial.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/5622_dial/obj/Debug/netcoreapp3.1/5622_dial.genruntimeconfig.cache

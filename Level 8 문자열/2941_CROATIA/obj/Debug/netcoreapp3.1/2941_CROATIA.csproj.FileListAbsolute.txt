@@ -1,0 +1,12 @@
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2941_CROATIA/bin/Debug/netcoreapp3.1/2941_CROATIA.deps.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2941_CROATIA/bin/Debug/netcoreapp3.1/2941_CROATIA.runtimeconfig.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2941_CROATIA/bin/Debug/netcoreapp3.1/2941_CROATIA.runtimeconfig.dev.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2941_CROATIA/bin/Debug/netcoreapp3.1/2941_CROATIA.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2941_CROATIA/bin/Debug/netcoreapp3.1/2941_CROATIA.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2941_CROATIA/obj/Debug/netcoreapp3.1/2941_CROATIA.csprojAssemblyReference.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2941_CROATIA/obj/Debug/netcoreapp3.1/2941_CROATIA.AssemblyInfoInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2941_CROATIA/obj/Debug/netcoreapp3.1/2941_CROATIA.AssemblyInfo.cs
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2941_CROATIA/obj/Debug/netcoreapp3.1/2941_CROATIA.csproj.CoreCompileInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2941_CROATIA/obj/Debug/netcoreapp3.1/2941_CROATIA.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2941_CROATIA/obj/Debug/netcoreapp3.1/2941_CROATIA.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/2941_CROATIA/obj/Debug/netcoreapp3.1/2941_CROATIA.genruntimeconfig.cache

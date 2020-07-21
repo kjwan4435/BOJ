@@ -1,0 +1,4 @@
+/Users/Jiwan/Documents/GitHub/BOJ/obj/Debug/netcoreapp3.1/BOJ.csprojAssemblyReference.cache
+/Users/Jiwan/Documents/GitHub/BOJ/obj/Debug/netcoreapp3.1/BOJ.AssemblyInfoInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/obj/Debug/netcoreapp3.1/BOJ.AssemblyInfo.cs
+/Users/Jiwan/Documents/GitHub/BOJ/obj/Debug/netcoreapp3.1/BOJ.csproj.CoreCompileInputs.cache

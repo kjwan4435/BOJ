@@ -1,0 +1,12 @@
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1157_FreqWord/bin/Debug/netcoreapp3.1/1157_FreqWord.deps.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1157_FreqWord/bin/Debug/netcoreapp3.1/1157_FreqWord.runtimeconfig.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1157_FreqWord/bin/Debug/netcoreapp3.1/1157_FreqWord.runtimeconfig.dev.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1157_FreqWord/bin/Debug/netcoreapp3.1/1157_FreqWord.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1157_FreqWord/bin/Debug/netcoreapp3.1/1157_FreqWord.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1157_FreqWord/obj/Debug/netcoreapp3.1/1157_FreqWord.csprojAssemblyReference.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1157_FreqWord/obj/Debug/netcoreapp3.1/1157_FreqWord.AssemblyInfoInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1157_FreqWord/obj/Debug/netcoreapp3.1/1157_FreqWord.AssemblyInfo.cs
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1157_FreqWord/obj/Debug/netcoreapp3.1/1157_FreqWord.csproj.CoreCompileInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1157_FreqWord/obj/Debug/netcoreapp3.1/1157_FreqWord.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1157_FreqWord/obj/Debug/netcoreapp3.1/1157_FreqWord.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 8 문자열/1157_FreqWord/obj/Debug/netcoreapp3.1/1157_FreqWord.genruntimeconfig.cache

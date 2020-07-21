@@ -1,0 +1,12 @@
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1193_Fraction/obj/Debug/netcoreapp3.1/1193_Fraction.csprojAssemblyReference.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1193_Fraction/obj/Debug/netcoreapp3.1/1193_Fraction.AssemblyInfoInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1193_Fraction/obj/Debug/netcoreapp3.1/1193_Fraction.AssemblyInfo.cs
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1193_Fraction/obj/Debug/netcoreapp3.1/1193_Fraction.csproj.CoreCompileInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1193_Fraction/bin/Debug/netcoreapp3.1/1193_Fraction.deps.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1193_Fraction/bin/Debug/netcoreapp3.1/1193_Fraction.runtimeconfig.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1193_Fraction/bin/Debug/netcoreapp3.1/1193_Fraction.runtimeconfig.dev.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1193_Fraction/bin/Debug/netcoreapp3.1/1193_Fraction.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1193_Fraction/bin/Debug/netcoreapp3.1/1193_Fraction.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1193_Fraction/obj/Debug/netcoreapp3.1/1193_Fraction.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1193_Fraction/obj/Debug/netcoreapp3.1/1193_Fraction.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1193_Fraction/obj/Debug/netcoreapp3.1/1193_Fraction.genruntimeconfig.cache
