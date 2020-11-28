@@ -19,7 +19,6 @@ namespace _2675_문자열반복
                     {
                         Write(word[j]);
                     }
-
                 }
                 Write("\n");
             }

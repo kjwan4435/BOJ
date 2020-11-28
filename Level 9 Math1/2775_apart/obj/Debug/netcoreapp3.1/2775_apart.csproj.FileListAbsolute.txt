@@ -1,0 +1,12 @@
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2775_apart/obj/Debug/netcoreapp3.1/2775_apart.csprojAssemblyReference.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2775_apart/obj/Debug/netcoreapp3.1/2775_apart.AssemblyInfoInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2775_apart/obj/Debug/netcoreapp3.1/2775_apart.AssemblyInfo.cs
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2775_apart/obj/Debug/netcoreapp3.1/2775_apart.csproj.CoreCompileInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2775_apart/bin/Debug/netcoreapp3.1/2775_apart.deps.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2775_apart/bin/Debug/netcoreapp3.1/2775_apart.runtimeconfig.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2775_apart/bin/Debug/netcoreapp3.1/2775_apart.runtimeconfig.dev.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2775_apart/bin/Debug/netcoreapp3.1/2775_apart.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2775_apart/bin/Debug/netcoreapp3.1/2775_apart.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2775_apart/obj/Debug/netcoreapp3.1/2775_apart.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2775_apart/obj/Debug/netcoreapp3.1/2775_apart.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/2775_apart/obj/Debug/netcoreapp3.1/2775_apart.genruntimeconfig.cache

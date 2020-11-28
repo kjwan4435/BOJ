@@ -1,0 +1,12 @@
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1011_NASA/bin/Debug/netcoreapp3.1/1011_NASA.deps.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1011_NASA/bin/Debug/netcoreapp3.1/1011_NASA.runtimeconfig.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1011_NASA/bin/Debug/netcoreapp3.1/1011_NASA.runtimeconfig.dev.json
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1011_NASA/bin/Debug/netcoreapp3.1/1011_NASA.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1011_NASA/bin/Debug/netcoreapp3.1/1011_NASA.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1011_NASA/obj/Debug/netcoreapp3.1/1011_NASA.csprojAssemblyReference.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1011_NASA/obj/Debug/netcoreapp3.1/1011_NASA.AssemblyInfoInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1011_NASA/obj/Debug/netcoreapp3.1/1011_NASA.AssemblyInfo.cs
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1011_NASA/obj/Debug/netcoreapp3.1/1011_NASA.csproj.CoreCompileInputs.cache
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1011_NASA/obj/Debug/netcoreapp3.1/1011_NASA.dll
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1011_NASA/obj/Debug/netcoreapp3.1/1011_NASA.pdb
+/Users/Jiwan/Documents/GitHub/BOJ/Level 9 Math1/1011_NASA/obj/Debug/netcoreapp3.1/1011_NASA.genruntimeconfig.cache

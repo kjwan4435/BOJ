@@ -22,7 +22,7 @@ namespace _5622_dial
                 else if (value <= 86) { time += 9; }
                 else if (value <= 90) { time += 10; }
             }
-            Write(time);
+            WriteLine(time);
         }
     }
 }

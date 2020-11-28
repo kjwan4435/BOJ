@@ -19,7 +19,6 @@ namespace _10250_ACM_hotel
                 int room_n = (N % H == 0) ? (N / H) : 1 + (N / H);
                 if (room_n < 10) { WriteLine("{0}0{1}", floor, room_n); }
                 else { WriteLine("{0}{1}", floor, room_n); }
-
             }
         }
     }

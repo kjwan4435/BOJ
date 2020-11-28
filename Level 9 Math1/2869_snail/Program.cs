@@ -20,7 +20,6 @@ namespace _2869_snail
             {
                 answer = (V - A) / (A - B) + 1;
                 if ((V - A) % (A - B) != 0) { answer += 1; }
-
                 WriteLine(answer);
             }
         }
